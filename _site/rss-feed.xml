@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Modelado Matemático</title>
+		<description>Coding Club UNAL</description>
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>¡Bienvenido al Club!</title>
+				
+					<dc:creator>Alexander LR</dc:creator>
+				
+				
+					<description>&lt;p&gt;El objetivo de esta iniciativa es familiarizarnos con herramientas computacionales lo más pronto posible.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Tue, 21 Jul 2020 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/journal/bienvenida-al-club.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/bienvenida-al-club.html</guid>
+			</item>
+		
+	</channel>
+</rss>

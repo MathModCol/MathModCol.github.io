@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-21T16:58:11-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Modelado Matemático</title><subtitle>Coding Club UNAL</subtitle><author><name></name></author><entry><title type="html">¡Bienvenido al Club!</title><link href="http://localhost:4000/journal/bienvenida-al-club.html" rel="alternate" type="text/html" title="¡Bienvenido al Club!" /><published>2020-07-21T00:00:00-05:00</published><updated>2020-07-21T00:00:00-05:00</updated><id>http://localhost:4000/journal/bienvenida-al-club</id><content type="html" xml:base="http://localhost:4000/journal/bienvenida-al-club.html">&lt;p&gt;El objetivo de esta iniciativa es familiarizarnos con herramientas computacionales lo más pronto posible.&lt;/p&gt;
+
+&lt;h3 id=&quot;qué-puedo-lograr&quot;&gt;¿Qué puedo lograr?&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Conocer las distintas etapas de construcción de un modelo matemático.&lt;/li&gt;
+  &lt;li&gt;Tener un pequeño proyecto donde haya aplicado las ideas de simulación.&lt;/li&gt;
+  &lt;li&gt;Tener un manejo básico en alguna de las herramientas computacionales como
+    &lt;ul&gt;
+      &lt;li&gt;Computación científica con Python, MATLAB, Julia, C++.&lt;/li&gt;
+      &lt;li&gt;Control de versiones: git, github.&lt;/li&gt;
+      &lt;li&gt;Escritura científica: LaTeX&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Buscar referencias y poder aprender por sí mismo herramientas más avanzadas.&lt;/li&gt;
+  &lt;li&gt;No tener miedo de implementar sus propias soluciones.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;cómo-lo-vamos-a-hacer&quot;&gt;¿Cómo lo vamos a hacer?&lt;/h3&gt;
+
+&lt;p&gt;Nos vamos a reunir dos veces por semana 1 hora.&lt;/p&gt;
+
+&lt;p&gt;Primera sesión:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fundamentos de modelado matemático. Alexander&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Segunda sesión:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;20 min de socialización de avances.&lt;/li&gt;
+  &lt;li&gt;Presentaciones temas cortos 30~min por estudiantes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Algunas sesiones podrán ser cambiadas por presentaciones por invitados sobre tópicos más avanzados o talleres.&lt;/p&gt;
+
+&lt;h3 id=&quot;quieres-saber-más&quot;&gt;¿Quieres saber más?&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;./../assets/pdf/intro.pdf&quot;&gt; Primera sesión &lt;/a&gt;&lt;/p&gt;</content><author><name>Alexander LR</name></author><category term="documentation" /><category term="intro" /><summary type="html">El objetivo de esta iniciativa es familiarizarnos con herramientas computacionales lo más pronto posible.</summary></entry></feed>
