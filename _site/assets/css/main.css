@@ -505,3 +505,7 @@ th, td {
 .fa-rss-square:hover {
 	color: #ff6600;
 }
+.cropimg{
+	position:absolute;
+	clip:rect(0px,300px,600px,300px);
+}
