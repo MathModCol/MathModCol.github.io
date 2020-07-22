@@ -79,3 +79,5 @@ Es fácil perderse en estos pasos. Usualmente uno se enfoca mucho en los pasos 2
 Uno no sabe (ni puede saberlo) todo. Existen problemas muy complejos para los cuales es, no solo necesario, sino imprescindible trabajar en un equipo con profesionales de distintas disciplinas. Está bien pedir ayuda. 
 
 Lo más probable es que fuera de la academia, se encuentren con problemas que requieran de esta colaboración.
+
+Es importante notar que un modelo **Núnca va a captar toda la información del sistema real**.
