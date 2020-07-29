@@ -1,4 +1,86 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-22T15:15:39-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Modelado Matemático</title><subtitle>Coding Club UNAL</subtitle><author><name></name></author><entry><title type="html">¡Bienvenido al Club!</title><link href="http://localhost:4000/journal/bienvenida-al-club.html" rel="alternate" type="text/html" title="¡Bienvenido al Club!" /><published>2020-07-21T00:00:00-05:00</published><updated>2020-07-21T00:00:00-05:00</updated><id>http://localhost:4000/journal/bienvenida-al-club</id><content type="html" xml:base="http://localhost:4000/journal/bienvenida-al-club.html">&lt;p&gt;El objetivo de esta iniciativa es familiarizarnos con herramientas computacionales lo más pronto posible.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-22T15:19:25-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Modelado Matemático</title><subtitle>Coding Club UNAL</subtitle><author><name></name></author><entry><title type="html">Modelado y Simulación</title><link href="http://localhost:4000/journal/modelado-simulacion.html" rel="alternate" type="text/html" title="Modelado y Simulación" /><published>2020-07-22T00:00:00-05:00</published><updated>2020-07-22T00:00:00-05:00</updated><id>http://localhost:4000/journal/modelado-simulacion</id><content type="html" xml:base="http://localhost:4000/journal/modelado-simulacion.html">&lt;p&gt;Es tomar aproximaciones &lt;em&gt;(modelos)&lt;/em&gt; del mundo real para resolver problemas.&lt;/p&gt;
+
+&lt;p&gt;Mediante una &lt;em&gt;simulación&lt;/em&gt; podemos hacer observaciones del modelo para distintas condiciones.&lt;/p&gt;
+
+&lt;p&gt;Luego &lt;em&gt;analizamos&lt;/em&gt; los resultados de las simulaciones para validar, hacer recomendaciones para futuras simulaciones, o concluir.&lt;/p&gt;
+
+&lt;p&gt;Finalmente, &lt;em&gt;compartimos&lt;/em&gt; nuestras conclusiones. Esto incluye visualizar datos, escribir un reporte, hacer presentaciones.&lt;/p&gt;
+
+&lt;h1 id=&quot;modelos-matemáticos&quot;&gt;Modelos matemáticos&lt;/h1&gt;
+&lt;p&gt;Nosotros vamos a modelar sistemas.&lt;/p&gt;
+
+&lt;p&gt;Un &lt;strong&gt;sistema&lt;/strong&gt; es una colección de elementos, partes, o agentes, la cual produce resultados que no se pueden obtener mediante las partes solas.&lt;/p&gt;
+
+&lt;p&gt;Ejemplo: una persona no puede formar un país.&lt;/p&gt;
+
+&lt;p&gt;Nuestra herramienta van a ser los modelos matemáticos.&lt;/p&gt;
+
+&lt;p&gt;Un &lt;strong&gt;modelo matemático&lt;/strong&gt; es una representación de un sistema mediante lenguaje matemático. Usualmente fórmulas.&lt;/p&gt;
+
+&lt;p&gt;Hay varias formas de estudiar un sistema&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;el sistema real vs un modelo del mismo.&lt;/li&gt;
+  &lt;li&gt;un modelo físico vs un modelo matemático.&lt;/li&gt;
+  &lt;li&gt;una solución analítica vs una solución numérica.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Por ejemplo&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Hechos históricos vs ideas sobre la historia.&lt;/li&gt;
+  &lt;li&gt;Prototipo vs modelo en MATLAB del mismo.&lt;/li&gt;
+  &lt;li&gt;Separación de variables vs método de Euler.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;por-qué-hacer-modelos-matemáticos&quot;&gt;¿Por qué hacer modelos matemáticos?&lt;/h2&gt;
+&lt;p&gt;El objetivo de hacer modelos matemáticos es para resolver un problema.&lt;/p&gt;
+
+&lt;p&gt;Por ejemplo:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Ventiladores en túneles de Praga.&lt;/li&gt;
+  &lt;li&gt;Optimización del tráfico.&lt;/li&gt;
+  &lt;li&gt;Definir políticas en medio de una pandemia.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div style=&quot;text-align:center&quot;&gt; 
+&lt;img src=&quot;./../assets/img/Prague.jpg&quot; style=&quot;max-width=600px;&quot; /&gt;
+     &lt;/div&gt;
+
+&lt;p&gt;Un modelo depende del problema a resolver. Si uno se enfoca mucho en las matemáticas, programación del modelo, puede obtener algo que es muy bonito pero poco útil. 
+Por otro lado, el modelo puede llegar a ser muy simple y no capturar la información que nos permite resolver el problema en el que estamos interesados.&lt;/p&gt;
+
+&lt;p&gt;Encontrar este punto requiere de mucha práctica y conocimiento.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“De aquí en adelante el modelado es más arte que ciencia. “&lt;/em&gt;&lt;/p&gt;
+
+&lt;div style=&quot;text-align:center&quot;&gt; 
+&lt;img src=&quot;./../assets/img/art.jpg&quot; style=&quot;max-width=600px;&quot; /&gt;
+     &lt;/div&gt;
+
+&lt;h2 id=&quot;pasos-para-construir-un-modelo-matemático&quot;&gt;Pasos para construir un modelo matemático&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Lo primero es definir claramente cuál es el &lt;em&gt;Problema&lt;/em&gt;. En este momento uno define cuál es el sistema que quiere tratar.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Segundo, &lt;em&gt;construir un modelo&lt;/em&gt;. Inicialmente uno asume cosas sobre el sistema. Esas suposiciones suelen convertirse en ecuaciones. Y estas ecuaciones son nuestro modelo matemático. Existen otras formas de dar un modelo matemático que no son solo ecuaciones por ejemplo mediante un programa.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tercero, &lt;em&gt;resolver el modelo&lt;/em&gt;. En este paso nosotros encontramos una solución a las ecuaciones que fueron propuestas en el paso anterior. Hacemos simulaciones para encontrar la información que buscamos.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cuarto, &lt;em&gt;validar el modelo&lt;/em&gt;. Con los resultados del paso anterior revisamos si nuestro modelo tiene sentido, si está resolviendo la pregunta que nos estamos haciendo, y si podemos mejorarlo.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Quinto, iteramos. Basados en el análisis anterior podemos hacer cambios en nuestro modelo o en el método de cálculo. Normalmente, tratamos de tener un modelo lo más simple posible.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Es fácil perderse en estos pasos. Usualmente uno se enfoca mucho en los pasos 2 y 3. Es importante tener en cuenta todos los pasos a la hora de trabajar.&lt;/p&gt;
+
+&lt;p&gt;Uno no sabe (ni puede saberlo) todo. Existen problemas muy complejos para los cuales es, no solo necesario, sino imprescindible trabajar en un equipo con profesionales de distintas disciplinas. Está bien pedir ayuda.&lt;/p&gt;
+
+&lt;p&gt;Lo más probable es que fuera de la academia, se encuentren con problemas que requieran de esta colaboración.&lt;/p&gt;</content><author><name>Alexander LR</name></author><category term="documentation" /><category term="intro" /><summary type="html">Es tomar aproximaciones (modelos) del mundo real para resolver problemas.</summary></entry><entry><title type="html">¡Bienvenido al Club!</title><link href="http://localhost:4000/journal/bienvenida-al-club.html" rel="alternate" type="text/html" title="¡Bienvenido al Club!" /><published>2020-07-21T00:00:00-05:00</published><updated>2020-07-21T00:00:00-05:00</updated><id>http://localhost:4000/journal/bienvenida-al-club</id><content type="html" xml:base="http://localhost:4000/journal/bienvenida-al-club.html">&lt;p&gt;El objetivo de esta iniciativa es familiarizarnos con herramientas computacionales lo más pronto posible.&lt;/p&gt;
 
 &lt;h3 id=&quot;qué-puedo-lograr&quot;&gt;¿Qué puedo lograr?&lt;/h3&gt;
 &lt;ul&gt;
