@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/journal/bienvenida-al-club.html</loc>
+<loc>/journal/bienvenida-al-club.html</loc>
 <lastmod>2020-07-21T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/journal/modelado-simulacion.html</loc>
+<loc>/journal/modelado-simulacion.html</loc>
 <lastmod>2020-07-22T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/menu/about.html</loc>
+<loc>/menu/about.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/menu/contact.html</loc>
+<loc>/menu/contact.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/menu/writing.html</loc>
+<loc>/menu/writing.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/assets/pdf/intro.pdf</loc>
+<loc>/assets/pdf/intro.pdf</loc>
 <lastmod>2020-07-21T16:38:20-05:00</lastmod>
 </url>
 </urlset>
