@@ -6,7 +6,7 @@ categories: journal
 tags: [documentation,intro]
 image: 
 ---
-Es tomar aproximaciones _(modelos)_ del mundo real para resolver problemas.
+Es tomar aproximaciones _(modelos)_ del mundo real para resolver problemas o tomar decisiones.
 
 Mediante una _simulación_ podemos hacer observaciones del modelo para distintas condiciones.
 
@@ -39,9 +39,9 @@ Por ejemplo
 El objetivo de hacer modelos matemáticos es para resolver un problema. 
 
 Por ejemplo: 
-1. Ventiladores en túneles de Praga. 
-2. Optimización del tráfico. 
-3. Definir políticas en medio de una pandemia.
+1. Ventiladores en túneles de Praga: ¿Cómo operar los ventiladores para que en caso de incendio no se ahogue la gente? 
+2. Optimización del tráfico: ¿Cómo podemos mejorar el flujo de vehículos?
+3. Definir políticas en medio de una pandemia: ¿Qué debemos hacer para minimizar el número de muertos y el impacto a la economía?
 
 <div style="text-align:center"> 
 <img src="./../assets/img/Prague.jpg"

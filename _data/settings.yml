@@ -8,8 +8,11 @@ google-ID: 'UA-159814879-3'
 
 menu:
 - {name: 'Acerca de', path: 'menu', url: 'about.html'}
-- {name: 'Presentaciones', path: 'menu', url: 'writing.html'}
+- {name: 'Blog', path: 'menu', url: 'writing.html'}
+- {name: 'Charlas', path: 'menu', url: 'talks.html'}
+- {name: 'Recursos', path: 'menu', url: 'resources.html'}
 - {name: 'Contacto', path: 'menu', url: 'contact.html'}
+
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:

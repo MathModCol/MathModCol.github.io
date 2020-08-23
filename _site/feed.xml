@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-22T21:07:16-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Modelado Matemático</title><subtitle>Coding Club UNAL</subtitle><author><name></name></author><entry><title type="html">Modelado y Simulación</title><link href="http://localhost:4000/journal/modelado-simulacion.html" rel="alternate" type="text/html" title="Modelado y Simulación" /><published>2020-07-22T00:00:00-05:00</published><updated>2020-07-22T00:00:00-05:00</updated><id>http://localhost:4000/journal/modelado-simulacion</id><content type="html" xml:base="http://localhost:4000/journal/modelado-simulacion.html">&lt;p&gt;Es tomar aproximaciones &lt;em&gt;(modelos)&lt;/em&gt; del mundo real para resolver problemas.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-22T23:19:55-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Modelado Matemático</title><subtitle>Coding Club UNAL</subtitle><author><name></name></author><entry><title type="html">Modelos sin dimensiones</title><link href="http://localhost:4000/journal/modelos-adimensionales.html" rel="alternate" type="text/html" title="Modelos sin dimensiones" /><published>2020-07-31T00:00:00-05:00</published><updated>2020-07-31T00:00:00-05:00</updated><id>http://localhost:4000/journal/modelos-adimensionales</id><content type="html" xml:base="http://localhost:4000/journal/modelos-adimensionales.html">&lt;p&gt;¿Qué decisiones podemos tomar utilizando un modelo matemático?&lt;/p&gt;
+
+&lt;p&gt;Hoy iniciaremos con un problema un poco más realista.&lt;/p&gt;
+
+&lt;p&gt;Suponga que se tiene una fábrica $A$ junto a un lago.
+La fábrica $A$ descarga un caudal $Q_{A} [m^{3}/s]$ de contaminante con una concentración $C_{A}[kg/m^{3}]$. 
+La descarga llega a un lago cuyo volumen es $V_{l}[m^{3}]$.
+Este lago alimenta un río que fluye con un caudal de $Q_{r}[m^{3}/s]$.&lt;/p&gt;
+
+&lt;p&gt;Suponga que hay planes de construir una segunda fábrica $B$ junto al mismo lago. 
+Para decidir si este proyecto sigue adelante, es necesario tener una evaluación del impacto ambiental que tendría la construcción de la segunda fábrica.&lt;/p&gt;
+
+&lt;p&gt;La pregunta es entonces:&lt;/p&gt;
+
+&lt;p&gt;¿Cómo podemos construir un modelo que nos permita entender el impacto ambiental de construir una segunda fábrica?&lt;/p&gt;
+
+&lt;p&gt;Vamos a iniciar suponiendo que la fábrica $B$ ya se construyó.
+La fábrica $B$ descargaría contaminante al mismo lago con un caudal $Q_{B}[ m^{3}/s]$ y una concentración $C_{B}[Kg/m^{3}]$.&lt;/p&gt;
+
+&lt;p&gt;Aún estamos lejos de construir&lt;/p&gt;
+
+&lt;p&gt;Este problema es una adaptación de un &lt;a href=&quot;https://ocw.tudelft.nl/course-readings/0-7-problem/&quot;&gt;problema&lt;/a&gt; del &lt;a href=&quot;https://ocw.tudelft.nl/courses/mathematical-modeling-basics/&quot;&gt;curso en línea en modelado matemático de la TU Delft&lt;/a&gt;.&lt;/p&gt;</content><author><name>Alexander LR</name></author><category term="journal" /><category term="teoría" /><category term="ecuaciones diferenciales" /><summary type="html">¿Qué decisiones podemos tomar utilizando un modelo matemático?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/20-07-31/factory.jpg" /><media:content medium="image" url="http://localhost:4000/20-07-31/factory.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Modelado y Simulación</title><link href="http://localhost:4000/journal/modelado-simulacion.html" rel="alternate" type="text/html" title="Modelado y Simulación" /><published>2020-07-22T00:00:00-05:00</published><updated>2020-07-22T00:00:00-05:00</updated><id>http://localhost:4000/journal/modelado-simulacion</id><content type="html" xml:base="http://localhost:4000/journal/modelado-simulacion.html">&lt;p&gt;Es tomar aproximaciones &lt;em&gt;(modelos)&lt;/em&gt; del mundo real para resolver problemas o tomar decisiones.&lt;/p&gt;
 
 &lt;p&gt;Mediante una &lt;em&gt;simulación&lt;/em&gt; podemos hacer observaciones del modelo para distintas condiciones.&lt;/p&gt;
 
@@ -36,9 +57,9 @@
 
 &lt;p&gt;Por ejemplo:&lt;/p&gt;
 &lt;ol&gt;
-  &lt;li&gt;Ventiladores en túneles de Praga.&lt;/li&gt;
-  &lt;li&gt;Optimización del tráfico.&lt;/li&gt;
-  &lt;li&gt;Definir políticas en medio de una pandemia.&lt;/li&gt;
+  &lt;li&gt;Ventiladores en túneles de Praga: ¿Cómo operar los ventiladores para que en caso de incendio no se ahogue la gente?&lt;/li&gt;
+  &lt;li&gt;Optimización del tráfico: ¿Cómo podemos mejorar el flujo de vehículos?&lt;/li&gt;
+  &lt;li&gt;Definir políticas en medio de una pandemia: ¿Qué debemos hacer para minimizar el número de muertos y el impacto a la economía?&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;div style=&quot;text-align:center&quot;&gt; 
@@ -82,7 +103,7 @@ Por otro lado, el modelo puede llegar a ser muy simple y no capturar la informac
 
 &lt;p&gt;Lo más probable es que fuera de la academia, se encuentren con problemas que requieran de esta colaboración.&lt;/p&gt;
 
-&lt;p&gt;Es importante notar que un modelo &lt;strong&gt;Núnca va a captar toda la información del sistema real&lt;/strong&gt;.&lt;/p&gt;</content><author><name>Alexander LR</name></author><category term="journal" /><category term="documentation" /><category term="intro" /><summary type="html">Es tomar aproximaciones (modelos) del mundo real para resolver problemas.</summary></entry><entry><title type="html">¡Bienvenido al Club!</title><link href="http://localhost:4000/journal/bienvenida-al-club.html" rel="alternate" type="text/html" title="¡Bienvenido al Club!" /><published>2020-07-21T00:00:00-05:00</published><updated>2020-07-21T00:00:00-05:00</updated><id>http://localhost:4000/journal/bienvenida-al-club</id><content type="html" xml:base="http://localhost:4000/journal/bienvenida-al-club.html">&lt;p&gt;El objetivo de esta iniciativa es familiarizarnos con herramientas computacionales lo más pronto posible.&lt;/p&gt;
+&lt;p&gt;Es importante notar que un modelo &lt;strong&gt;Núnca va a captar toda la información del sistema real&lt;/strong&gt;.&lt;/p&gt;</content><author><name>Alexander LR</name></author><category term="journal" /><category term="documentation" /><category term="intro" /><summary type="html">Es tomar aproximaciones (modelos) del mundo real para resolver problemas o tomar decisiones.</summary></entry><entry><title type="html">¡Bienvenido al Club!</title><link href="http://localhost:4000/journal/bienvenida-al-club.html" rel="alternate" type="text/html" title="¡Bienvenido al Club!" /><published>2020-07-21T00:00:00-05:00</published><updated>2020-07-21T00:00:00-05:00</updated><id>http://localhost:4000/journal/bienvenida-al-club</id><content type="html" xml:base="http://localhost:4000/journal/bienvenida-al-club.html">&lt;p&gt;El objetivo de esta iniciativa es familiarizarnos con herramientas computacionales lo más pronto posible.&lt;/p&gt;
 
 &lt;h3 id=&quot;qué-puedo-lograr&quot;&gt;¿Qué puedo lograr?&lt;/h3&gt;
 &lt;ul&gt;
