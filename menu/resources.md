@@ -8,7 +8,7 @@ title: Recursos
 Puedes empezar buscando inspiración [aquí](http://systems-sciences.uni-graz.at/etextbook/).
 
 ## Programación
-
+- MIT (2020).Introduction to Computer Science and Programming Using Python. Edx. [Link](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
 ### Fundamentos
 
 ### Python
