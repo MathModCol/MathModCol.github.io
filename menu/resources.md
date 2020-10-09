@@ -18,7 +18,8 @@ Puedes empezar buscando inspiración [aquí](http://systems-sciences.uni-graz.at
 ### C++
 
 ### Julia
-
+### Kali linux
+- Penetration Testing Training with Kali Linux (2020) [link])(https://www.kali.org/penetration-testing-with-kali-linux/)
 
 ## Matemáticas 
 
