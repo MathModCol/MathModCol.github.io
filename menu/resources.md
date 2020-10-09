@@ -25,6 +25,7 @@ Puedes empezar buscando inspiración [aquí](http://systems-sciences.uni-graz.at
 ### Ecuaciones diferenciales ordinarias
 
 ### Ecuaciones diferenciales parciales
+- R. LeVeque (1992). Numerical methods for conservation laws. Lectures in mathematics. Springer. [Link](https://www.springer.com/gp/book/9783764327231) 
 
 ### Probabilidad y estadística
 
