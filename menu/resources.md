@@ -28,7 +28,7 @@ Puedes empezar buscando inspiración [aquí](http://systems-sciences.uni-graz.at
 - R. LeVeque (1992). Numerical methods for conservation laws. Lectures in mathematics. Springer. [Link](https://www.springer.com/gp/book/9783764327231) 
 
 ### Probabilidad y estadística
-
+- W. Mendenhall (1963). Introduction to probability & statistics. [Link](https://www.amazon.co.uk/Introduction-Probability-Statistics-William-Mendenhall/dp/1337554421)
 ## Ingeniería 
 
 ### Mecánica de Fluidos
