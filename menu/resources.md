@@ -8,11 +8,11 @@ title: Recursos
 Puedes empezar buscando inspiración [aquí](http://systems-sciences.uni-graz.at/etextbook/).
 
 ## Programación
-- MIT (2020).Introduction to Computer Science and Programming Using Python. Edx. [Link](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
+
 ### Fundamentos
 
 ### Python
-
+- MIT (2020).Introduction to Computer Science and Programming Using Python. Edx. [Link](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
 ### Matlab
 
 ### C++
@@ -27,10 +27,10 @@ Puedes empezar buscando inspiración [aquí](http://systems-sciences.uni-graz.at
 ## Matemáticas 
 
 ### Ecuaciones diferenciales ordinarias
-
+- MIT (2020).Introduction to Differential Equations. Edx. [Link](https://www.edx.org/course/introduction-to-differential-equations-2)
 ### Ecuaciones diferenciales parciales
 - R. LeVeque (1992). Numerical methods for conservation laws. Lectures in mathematics. Springer. [Link](https://www.springer.com/gp/book/9783764327231) 
-
+- MIT (2021).Differential Equations: Fourier Series and Partial Differential Equations. Edx. [Link](https://www.edx.org/course/differential-equations-fourier-series-and-partial)
 ### Probabilidad y estadística
 
 - Hernández, R.; Fernández, C. y Baptista, P. (2014) Metodología de la Investigación. McGraw-Hill. [Link](https://www.esup.edu.pe/descargas/dep_investigacion/Metodologia%20de%20la%20investigaci%C3%B3n%205ta%20Edici%C3%B3n.pdf)
